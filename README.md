@@ -19,9 +19,6 @@
 
 ## Fun
 
-🏛️ [wikitrivia.tomjwatson.com](https://wikitrivia.tomjwatson.com) 🥇 Best Streak: 36
-
-<br><br><br><br>
 <pre>
 -----BEGIN GEEK CODE BLOCK-----
 Version: 3.1
